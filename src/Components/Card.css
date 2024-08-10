@@ -1,0 +1,94 @@
+.cardParent{
+    /* border: 2px solid red; */
+    width: 400px;
+    height: 300px;
+    position: relative;
+}
+@media all and (max-width:430px) {
+    .cardParent{
+        width: auto;
+        height: auto;
+    }
+}
+.image img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+@media all and (max-width:430px) {
+   .image img{
+    width: 50px;
+    height: 50px;
+   }
+}
+@media all and (max-width:290px) {
+   .image img{
+    width: 35px;
+    height: 35px;
+   }
+}
+.naam{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: bold;
+    color:rgb(0, 132, 255);
+    margin-top: 10px;
+}
+@media all and (max-width:430px) {
+    .naam{
+        font-size: 30px;
+    }
+ }
+@media all and (max-width:290px) {
+    .naam{
+        font-size: 20px;
+    }
+ }
+ 
+.jobReview{
+    display: flex;
+    justify-content: center;
+    color:rgb(120, 118, 118);
+}
+@media all and (max-width:430px) {
+   .jobReview{
+    font-size: 10px;
+   }
+ }
+@media all and (max-width:290px) {
+   .jobReview{
+    font-size: 7px;
+   }
+ }
+.leftQuote{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+@media all and (max-width:430px) {
+    .leftQuote{
+        font-size: 8px;
+    }
+  }
+.textReview{
+    display: flex;
+    justify-content: start;
+    padding:5px;
+}
+@media all and (max-width:430px) {
+    .textReview{
+        font-size: 15px;
+    }
+  }
+.rightQuote{
+    display: flex;
+    justify-content: center;
+}
+@media all and (max-width:430px) {
+    .rightQuote{
+        font-size: 8px;
+    }
+  }

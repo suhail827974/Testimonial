@@ -1,0 +1,90 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.parentContainer{
+    /* border:2px solid red; */
+    display:  flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    border: 1px solid rgb(85, 159, 254);;
+    border-radius: 10px;
+    box-shadow:2px 2px 15px rgb(85, 159, 254);
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+@media all and (max-width:430px) {
+    .container{
+        width:70%;
+    }
+}
+.heading{
+display: flex;
+justify-content: center;
+}
+@media all and (max-width:430px) {
+    .heading{
+        font-size: 20px;
+    }
+}
+@media all and (max-width:290px) {
+    .heading{
+        font-size: 15px;
+    }
+}
+.parentContainer .underline{
+    border: 1px solid red;
+    width: 50%;
+    margin: auto;
+}
+@media all and (max-width:430px) {
+    .parentContainer .underline{
+        width: 40%;
+    }
+}
+
+ .leftRightBtn{
+    display:flex;
+    justify-content: center;
+ }
+ .leftRightBtn button{
+    margin:5px 10px;
+    cursor: pointer;
+    border:none;
+    background:none;
+    font-size: 20px;
+ }
+ @media all and (max-width:430px) {
+    .leftRightBtn button{
+        font-size: 10px;
+    }
+
+}
+ .supriseBtn {
+    display: flex;
+    justify-content: center;
+}
+.supriseBtn button{
+    border: none;
+    color:rgb(222, 215, 215);
+    font-size: large;
+    border-radius: 5px;
+    padding:5px 10px;
+    margin:10px 0px;
+    background-color:rgb(3, 136, 198); ;
+}
+@media all and (max-width:430px) {
+    .supriseBtn button{
+        font-size: 10px;
+    }
+
+}
+.supriseBtn button:hover{
+    cursor: pointer;
+    background-color: rgb(2, 170, 248);
+}
