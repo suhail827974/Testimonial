@@ -4,14 +4,14 @@ const reviews = [
         name:"Suhail",
         job:"Software Engineer",
         img:"https://cdn.pixabay.com/photo/2021/10/08/06/34/shah-rukh-khan-6690338_640.png",
-        text:"This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me!",
+        text:"As a skilled front-end developer, I am dedicated to turning ideas into innovative web applications. Also i can provide a clean code and responsive websites. I take pride in paying attention to the smallest details and making sure that my work is pixel perfect.",
     },
     {
         id:2,
         name:"Salman",
         job:"Hardware Engineer",
         img:"https://cdn.pixabay.com/photo/2021/10/08/06/33/man-6690334_1280.png",
-        text:"This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me!",
+        text:"I believe that front-end development is about more than just making things look pretty. It's about solving problems and making intuitive, enjoyable Experience for users. Every website should be built with two primary goals. fistly, it needs to work across all devices. secondly, it needs to be fast as possible. Whenever i'm working on a website, I bring my commitment to develop excellence and user-centered thinking to every project I work on.",
     },
     {
         id:3,
