@@ -18,21 +18,21 @@ const reviews = [
         name:"Salim",
         job:"Cloud Engineer",
         img:"https://cdn.pixabay.com/photo/2021/10/08/06/33/salman-khan-6690335_640.png",
-        text:"This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me!",
+        text:"As a skilled front-end developer, I am dedicated to turning ideas into innovative web applications. Also i can provide a clean code and responsive websites. I take pride in paying attention to the smallest details and making sure that my work is pixel perfect.",
     },
     {
         id:4,
         name:"khan",
         job:"Stand-up Comedian",
         img:"https://cdn.pixabay.com/photo/2022/06/23/23/37/zakir-khan-stand-up-comedian-7280791_640.jpg",
-        text:"This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me!",
+        text:"As a skilled front-end developer, I am dedicated to turning ideas into innovative web applications. Also i can provide a clean code and responsive websites. I take pride in paying attention to the smallest details and making sure that my work is pixel perfect.",
     },
     { 
         id:5,
         name:"SRK",
         job:"Actor",
         img:"https://cdn.pixabay.com/photo/2017/06/07/13/41/shahrukh-khan-2380411_640.png",
-        text:"This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me! This is about me!",
+        text:"As a skilled front-end developer, I am dedicated to turning ideas into innovative web applications. Also i can provide a clean code and responsive websites. I take pride in paying attention to the smallest details and making sure that my work is pixel perfect.",
     },
 ]
 
